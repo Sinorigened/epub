@@ -1,0 +1,11 @@
+<!-- Con esta hoja de estilo, queremos llevar a cabo un trabajo limpio y sencillo para que su lectura sea práctica y amena -->
+
+                                                  <!-- Headers -->
+h1 { font-size: 23 px;
+family-font: Serif;
+color: black;
+}
+h2 { font-size: 20 px;
+family-font: Sans;
+color: black;
+}
