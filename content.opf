@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" version="3.0" unique-identifier="pub-identifier" prefix="widget: http://idpf.org/epub/vocab/widget/# calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">Himnos/Anthems</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Autor">Eduardo de Gortari</dc:creator>
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:b8b36725-1d11-4c65-829c-2ba18533e4ae</dc:identifier>
+    <dc:date>2017-08-31T05:00:00+00:00</dc:date>
+    <dc:publisher>Sin Origen</dc:publisher>
+    <dc:date>2017-08-31T05:00:00+00:00</dc:date>
+    <dc:language>es-MX</dc:language>
+    <dc:identifier opf:scheme="calibre">c443e28e-6a27-4bc1-ba19-3173032aedea</dc:identifier>
+    <meta name="Sigil version" content="0.9.7"/>
+    <meta name="calibre:title_sort" content="Himnos/Anthems"/>
+    <meta name="calibre:author_link_map" content="{&quot;Eduardo de Gortari&quot;: &quot;&quot;}"/>
+    <meta name="calibre:series" content="Narrativa"/>
+    <meta name="calibre:series_index" content="1.0"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item id="contraportada.xhtml" href="Text/titulo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Legal.xhtml" href="Text/Legal.xhtml" media-type="application/xhtml+xml"/>
+    <item id="portada_cartonera.xhtml" href="Text/portada_cartonera.xhtml" media-type="application/xhtml+xml"/>
+    <item id="portadilla.xhtml" href="Text/bio.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Instruccionesparaleer.xhtml" id="id8" media-type="application/xhtml+xml"/>
+    <item id="himnos.xhtml" href="Text/himnos.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0001.xhtml" href="Text/anthems.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id" href="Styles/Style_SO.css" media-type="text/css"/>
+    <item id="cover" href="Images/cover.png" media-type="image/png"/>
+    <item href="Images/FIVE-GUYS.gif" id="id5" media-type="image/gif"/>
+    <item href="Images/GIF-CUERPO.gif" id="id3" media-type="image/gif"/>
+    <item href="Images/GIF-PARQUE.gif" id="id4" media-type="image/gif"/>
+    <item id="Gortari.jpg" href="Images/Gortari.jpg" media-type="image/jpeg"/>
+    <item href="Images/logoSinOrigen.png" id="id7" media-type="image/png"/>
+    <item id="Portada_carta_ebook-01.jpg" href="Images/Portada_carta_ebook-01.jpg" media-type="image/jpeg"/>
+    <item href="Images/SMITHS-600PX.gif" id="id1" media-type="image/gif"/>
+    <item href="Images/VIAJE-A-CANADA.gif" id="id6" media-type="image/gif"/>
+    <item href="Images/WALKMAN-GIF.gif" id="id2" media-type="image/gif"/>
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="contraportada.xhtml"/>
+    <itemref idref="Legal.xhtml"/>
+    <itemref idref="portada_cartonera.xhtml"/>
+    <itemref idref="portadilla.xhtml"/>
+    <itemref idref="id8"/>
+    <itemref idref="himnos.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Portada" type="cover"/>
+  </guide>
+</package>
