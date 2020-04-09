@@ -1,0 +1,254 @@
+/* Hoja de estilo elaborada e implementada por @pelombelom para @sinorigened. Aquí verás todo el esqueleto para para que puedas disfrutar nuestros libros.Esperamos lo disfrutes. Cualquier comentario, cambio o bug que encuentres, puedes escribirnos a: sinorigened@gmail.com.
+El trabajo que realizamos en Sin Origen es por un gusto culposo a la rebeldía, a la autocrítica y al DIY. Desde aquí, y a partir de nuestros libros, nos enfocamos a que la información se encuentre accesible, No podemos seguir con una línea paternalista de qué sí y qué no puede ver la gente. La información no daña,y debe ser compartida.
+Como editorial y librería, debemos tener ciertos gastos, pero los dos centros de funcionamiento son el pago de regalías para el autor, y el mantenimiento de nuetra librería. Por eso vendemos epubs y no archivos.         */
+h1, h2, h3, h4, h5, h6 {
+  -epub-hyphens: none;
+}
+h2.titp{
+  margin-top: 2.5em;
+  font-weight: 700;
+  font-size: 40px;
+  text-align: left;
+}
+.tt {
+  font-size: 40px;
+  font-family: serif;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+  -epub-hyphens: auto;
+  -webkit-hyphens: auto;
+  overflow: auto;
+}
+.tit1 {
+  font-size: 60px;
+  font-family: serif;
+  margin-top:20px;
+  margin-left:10px;
+  margin-right:50px;
+  text-align: left;
+}
+
+h1 {
+  margin-top: 2.5em;
+  font-size: 40px;
+  font-family: serif;
+}
+p {
+  font-family: serif;
+  font-size: 15px;
+  line-height: 15pt;
+  margin: 0;
+  text-align: justify;
+}
+.footnote {
+  padding-top: 50px;
+  line-height: 10pt;
+  font-size: 10px;
+}
+p.ital {
+  font-family: serif;
+  font-size: 15px;
+  font-style: italic;
+  line-height: 15pt;
+  margin: 0;
+  text-align: justify;
+}
+div.poe {
+  font-family: serif;
+  font-size: 15px;
+  font-style: italic;
+  line-height: 10pt;
+  padding: 15px;
+}
+p.po {
+  font-family: serif;
+  font-size: 15px;
+  margin: 0;
+  line-height: 15pt;
+  text-align: left;
+  padding: 15px;
+}
+p.ri {
+  font-family: serif;
+  font-size: 15px;
+  line-height: 15pt;
+  margin: 0;
+  text-align: right;
+}
+p.riq {
+  font-family: serif;
+  font-size: 11px;
+  line-height: 10pt;
+  text-align: right;
+}
+p.pq {
+  font-family: serif;
+  font-size: 11px;
+  line-height: 10pt;
+  text-align: right;
+}
+p.francesa {
+  text-indent: -50px;
+  padding-left: 50px;
+}
+div.ref {
+  margin-left: 3em;
+  text-indent: -40px;
+}
+div.intro{
+  margin-top: 60px;
+  margin-left: 25px;
+  margin-bottom: 50px;
+  }
+div.legal {
+ margin-top: 100px;
+ margin-left: 50px;
+  
+}
+div.ta {
+  padding: 0.5em;
+}
+div.fi {
+  padding-bottom: 1em;
+}
+body {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+  -epub-hyphens: auto;
+  -webkit-hyphens: auto;
+  font-family: sans-serif;
+  overflow: auto;
+}
+div.epig {
+  margin-top: 70px;
+  margin-left: 50px;
+}
+blockquote {
+  font-family: serif;
+  font-size: 18px;
+  font-style: Italic;
+  font-weight: bold;
+  line-height: 15pt;
+  text-align: right;
+}
+table {
+  width: 100%;
+  text-align: left;
+  font-family: serif;
+  font-size: 14px;
+  line-height: 12pt;
+}
+td {
+  font-family: serif;
+  font-size: 14px;
+  line-height: 12pt;
+}
+td.l {
+  font-weight: bold;
+}
+ul {
+  font-family: serif;
+  font-size: 15px;
+  line-height: 15pt;
+  margin: 0;
+  text-align: left;
+}
+a {
+  text-decoration: none;
+  color: green;
+}
+/* Aquí veremos cómo funciona la parte multimedia del libro. */
+/* El contenedor con el padding top crea el tamaño del video */
+.contenedor {
+  text-align: center;
+  height: 0;
+  width: 100%;
+  max-width: 560px;
+  padding-top: 65.25%;
+  /* relación: 16/9 = 56.25%  */
+  position: relative;
+  /* para centrado se deja así */
+  top: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+iframe {
+  /*se adapta al tamaño del contenedor  */
+  position: relative;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+div.image {
+  width: auto;
+  height: auto;
+  display: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.imgbio {
+  width: 80%;
+  height: auto;
+  display: relative;
+  margin-left: 0px;
+  margin-right: auto;
+  padding-top: 1em;
+}
+img.imgreg {
+  width: 80%;
+  height: auto;
+  display: relative;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+img.imgmap {
+  width: 60%;
+  height: auto;
+  float: right;
+  text-align: right;
+  padding-left: 0.5em;
+  
+}
+img.imgh {
+  width: 100%;
+  height: auto;
+  display: absolute;
+  margin-left: 10px;
+  margin-right: auto;
+  padding-bottom: 0.5em;
+}
+img.imgc {
+  width: 100%;
+  height: auto;
+  display: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+.imqr {
+  width: 50%;
+  height: auto;
+  display: right;
+  float: right;
+  padding: 1em;
+}
+img.imgl {
+  width: 80%;
+  height: auto;
+  text-align: right;
+  float: left;
+  padding: 0.5em;
+}
+
+img.log {
+  width: 10%;
+}
+
+/*  Gracias a @intratextual por todo el apoyo y conocimiento que ha aportado para lograr que esto sea impecable  */

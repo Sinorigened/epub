@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="1defc637-1b73-4bd5-914d-f02e44cb62a1" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="calibre (2.75.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kumbh Mela: Finding Peace in the world’s largest human gathering</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Kumbh Mela: Finding Peace in the world’s largest human gathering</text>
+      </navLabel>
+      <content src="Kumbh.html"/>
+      <navPoint id="num_2" playOrder="2">
+        <navLabel>
+          <text>Acknowledgements</text>
+        </navLabel>
+        <content src="acknowledgements.html"/>
+      </navPoint>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>Preface</text>
+        </navLabel>
+        <content src="preface.html"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>Part I. The Myth</text>
+        </navLabel>
+        <content src="part1themyth.html"/>
+        <navPoint id="num_5" playOrder="5">
+          <navLabel>
+            <text>The symbolism of the Samudra Mathan</text>
+          </navLabel>
+          <content src="part1themyth.html#uCTZa74NsyYpf4Dyj7v9xZ7"/>
+        </navPoint>
+        <navPoint id="num_6" playOrder="6">
+          <navLabel>
+            <text>The churning of the ocean</text>
+          </navLabel>
+          <content src="part1themyth.html#uXqVlh6AWOPB8YWGsvjH9PH"/>
+        </navPoint>
+        <navPoint id="num_7" playOrder="7">
+          <navLabel>
+            <text>The “Kumbh” controversy</text>
+          </navLabel>
+          <content src="part1themyth.html#ukVyyPN9cmOeCf2gwunHsY2"/>
+        </navPoint>
+        <navPoint id="num_8" playOrder="8">
+          <navLabel>
+            <text>Pilgrimage, Cosmogram and comunnitas</text>
+          </navLabel>
+          <content src="part1themyth.html#ut2vkQzQ6XGJazAzk4lR7W6"/>
+        </navPoint>
+        <navPoint id="num_9" playOrder="9">
+          <navLabel>
+            <text>The elusive historicity</text>
+          </navLabel>
+          <content src="part1themyth.html#uzdQ2jRz6exZcrNhzsbuqUF"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>Part. II The People</text>
+        </navLabel>
+        <content src="part2thepeople.html"/>
+        <navPoint id="num_11" playOrder="11">
+          <navLabel>
+            <text>The Pilgrims</text>
+          </navLabel>
+          <content src="part2thepeople.html#uD2uEvmbh4KxBktEXTwCpLG"/>
+        </navPoint>
+        <navPoint id="num_12" playOrder="12">
+          <navLabel>
+            <text>The Prayagwals</text>
+          </navLabel>
+          <content src="part2thepeople.html#uLuo5AKhUt7fWHZWJVDAVI2"/>
+        </navPoint>
+        <navPoint id="num_13" playOrder="13">
+          <navLabel>
+            <text>The Sadhus</text>
+          </navLabel>
+          <content src="part2thepeople.html#uuqCMfx9s27xZv4LMUpzsb5"/>
+        </navPoint>
+        <navPoint id="num_14" playOrder="14">
+          <navLabel>
+            <text>Banaras: The last destination</text>
+          </navLabel>
+          <content src="part2thepeople.html#uuEuZzjkdIDHRY6NMb2XV76"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>Conclusion</text>
+        </navLabel>
+        <content src="conclusion.xhtml"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>Bibliography</text>
+        </navLabel>
+        <content src="bibliography.html"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>News feeds:</text>
+        </navLabel>
+        <content src="newsfeeds.html"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>Electronic sources</text>
+        </navLabel>
+        <content src="electronicsources.html"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>Appendix</text>
+        </navLabel>
+        <content src="apendix.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,73 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" version="3.0" unique-identifier="pub-identifier" prefix="widget: http://idpf.org/epub/vocab/widget/# calibre: https://calibre-ebook.com">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Kumbh Mela: Finding Peace in the world’s largest human gathering</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Torner, Luis Felipe Pérez">Luis Felipe Pérez Torner</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">1defc637-1b73-4bd5-914d-f02e44cb62a1</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.75.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2017-08-01T05:00:00+00:00</dc:date>
+    <dc:publisher>Sin Origen</dc:publisher>
+    <dc:subject>kumbh mela</dc:subject>
+    <dc:subject>Varanassi</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">df29ddaf-ab51-4ab6-b5b5-86352f2666a0</dc:identifier>
+    <meta content="{&quot;Luis Felipe Pérez Torner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="Notes from a Pilgrim" name="calibre:series"/>
+    <meta content="1.0" name="calibre:series_index"/>
+    <meta name="calibre:title_sort" content="Kumbh Mela: Finding Peace in the world’s largest human gathering"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href=".../text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href=".../text/bio.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href=".../text/legal.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href=".../text/instructions.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href=".../text/Kumbh.html" id="id4" media-type="application/xhtml+xml"/>
+    <item href=".../text/acknowledgements.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href=".../text/quote.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href=".../text/preface.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href=".../text/part1themyth.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href=".../text/part2thepeople.html" id="id9" media-type="application/xhtml+xml"/>
+    <item href=".../text/conclusion.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href=".../text/bibliography.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href=".../text/newsfeeds.html" id="id20" media-type="application/xhtml+xml"/>
+    <item href=".../text/electronicsources.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href=".../text/apendix.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href=".../styles/Style_SO.css" id="id" media-type="text/css"/>
+    <item href=".../images/churningofthemilk.jpg" id="id5" media-type="image/jpeg"/>
+    <item href=".../images/cosmogram.png" id="id6" media-type="image/png"/>
+    <item href=".../images/cover-.png" id="cover" media-type="image/png"/>
+    <item href=".../images/fotoanai.jpg" id="id11" media-type="image/jpeg"/>
+    <item href=".../images/IMG_1466british.jpg" id="id14" media-type="image/jpeg"/>
+    <item href=".../images/IMG_2234british.jpg" id="id13" media-type="image/jpeg"/>
+    <item href=".../images/IMG_3760british.jpg" id="id17" media-type="image/jpeg"/>
+    <item href=".../images/logoSinOrigen.png" id="id26" media-type="image/png"/>
+    <item href=".../images/melainbanaras.jpg" id="id16" media-type="image/jpeg"/>
+    <item href=".../images/nehruatthesangam.jpg" id="id7" media-type="image/jpeg"/>
+    <item href=".../images/P1440120.jpg" id="id15" media-type="image/jpeg"/>
+    <item href=".../images/P1470014.jpg" id="id25" media-type="image/jpeg"/>
+    <item href=".../images/pilgrimstrainbw.jpg" id="id10" media-type="image/jpeg"/>
+    <item href=".../images/saddhusonprocesion.jpg" id="id12" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id4"/>
+    <itemref idref="id1"/>
+    <itemref idref="id3"/>
+    <itemref idref="id2"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="start"/>
+    <itemref idref="id21"/>
+    <itemref idref="id20"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+  </spine>
+  <guide>
+    <reference href=".../text/titlepage.xhtml" title="Portada" type="cover"/>
+  </guide>
+</package>
