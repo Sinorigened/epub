@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+  <head>
+    <meta content="urn:uuid:21a50b1e-72c8-4cb1-be45-3933466fbc3e" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (2.75.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Sphera Prisma. Brevísima antología personal 2010-2015</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Omnia</text>
+      </navLabel>
+      <content src="Text/Omnia.xhtml#ulquwXCBM8QJq4zChfNhpQB"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Multilíneas</text>
+      </navLabel>
+      <content src="Text/multilinea.xhtml#uYeYT56gs4E7oI5scWFoGZ9"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>País(aje)</text>
+      </navLabel>
+      <content src="Text/Paisaje.xhtml#uF9VD7ckLxVnYnygvXpFrDA"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>(léase con voz robótica)</text>
+      </navLabel>
+      <content src="Text/leaseconvozrobotica.xhtml#uRn435hgHr8SiwhVxutyzVD"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Mi novia plástica</text>
+      </navLabel>
+      <content src="Text/Minoviaplastica.xhtml#ueKnLmfVtGwVEhie2YvNH7D"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Medussa</text>
+      </navLabel>
+      <content src="Text/Medussa.xhtml#uTDNFBnRloxWu4KGY2Kqe59"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Octavio y yo</text>
+      </navLabel>
+      <content src="Text/Octavioyyo.xhtml#uxkWuscD6D6PyLIwIDMjacB"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Ladrón de agendas</text>
+      </navLabel>
+      <content src="Text/Ladrondeagendas.xhtml#uZ9PQgB8nCeU9RtmTRLhYfG"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>Metaforma</text>
+      </navLabel>
+      <content src="Text/metaforma.xhtml#uh8QPtc2vpsNEmhy6kb2EBF"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>Pirusho</text>
+      </navLabel>
+      <content src="Text/Pirusho.xhtml#uT4jEEst2PwN4SIj4AuI8T2"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>Las huellas de mi perro</text>
+      </navLabel>
+      <content src="Text/Lashuellasdemiperro.xhtml#us7PLGFiaXnUosXrAovg87H"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>Paso de hotel</text>
+      </navLabel>
+      <content src="Text/Pasodehotel.xhtml#uL6oREV6LwdXBZduwNnHfqE"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>Vulnerabilidad en agua</text>
+      </navLabel>
+      <content src="Text/Vulnerabilidadenagua.xhtml#ulwH8VUQoWPqqzdGdVJhJS2"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>El muro electrónico</text>
+      </navLabel>
+      <content src="Text/Elmuroelectronico.xhtml#uvZRbs85vZXlRdCfcCAulf8"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>Instrucciones para dar instrucciones</text>
+      </navLabel>
+      <content src="Text/Instruccionesparadarinstrucciones.xhtml#uRjjqiwUZ5CHrtPZafBttLG"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>Kráter</text>
+      </navLabel>
+      <content src="Text/krater.xhtml#uBaZhSNhqnBlo4iHX5BmJn3"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>Fiebre</text>
+      </navLabel>
+      <content src="Text/Fiebre.xhtml#uQWo8iU2ySAgygE2JvthQCA"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>The shooter</text>
+      </navLabel>
+      <content src="Text/Theshooter.xhtml#uGoowHKjQkkLjWKsmXqCxF7"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>Replantear el mundo</text>
+      </navLabel>
+      <content src="Text/Replantearemundo.xhtml#ucM5yzezAOrMJh8Ls5JTFK9"/>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>No estoy allá</text>
+      </navLabel>
+      <content src="Text/Noestoyalla.xhtml#urYw4pKeJqHTnPKpLGUjHkC"/>
+    </navPoint>
+    <navPoint id="num_21" playOrder="21">
+      <navLabel>
+        <text>Zombie Zuperstar</text>
+      </navLabel>
+      <content src="Text/ZombieZuperstar.xhtml#uh2KeAeSmPZtzNqsVuX9pdB"/>
+    </navPoint>
+    <navPoint id="num_22" playOrder="22">
+      <navLabel>
+        <text>Botánica</text>
+      </navLabel>
+      <content src="Text/Botanica.xhtml#unOl92UWLaXgkXgIsYw6zkE"/>
+    </navPoint>
+    <navPoint id="num_23" playOrder="23">
+      <navLabel>
+        <text>Pequeña explosión atómica</text>
+      </navLabel>
+      <content src="Text/Pequenaexplosionatomica.xhtml#uGbP7TNFtx6SVRLooS7vBa3"/>
+    </navPoint>
+    <navPoint id="num_24" playOrder="24">
+      <navLabel>
+        <text>Desplegados</text>
+      </navLabel>
+      <content src="Text/Desplegados.xhtml#u9P9ee7tdfbYWcdd4ZhJOXE"/>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>Primer desplegado</text>
+        </navLabel>
+        <content src="Text/Desplegados.xhtml#uDeksxL4cHt4w3INZDb7Sp2"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>Séptimo desplegado</text>
+        </navLabel>
+        <content src="Text/Desplegados.xhtml#uCB22PA8Q38YvASlUNzlTn9"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>Décimo desplegado</text>
+        </navLabel>
+        <content src="Text/Desplegados.xhtml#uZRDas7cnIGndWZGGwftofB"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_28" playOrder="28">
+      <navLabel>
+        <text>Quince columnas son un templo</text>
+      </navLabel>
+      <content src="Text/Quincecolumnassonuntemplo.xhtml#uI6kyNeWmxQC4AnmEyb9Pn8"/>
+    </navPoint>
+    <navPoint id="num_29" playOrder="29">
+      <navLabel>
+        <text>Nervios</text>
+      </navLabel>
+      <content src="Text/Nervios.xhtml#uCDJ9ig3KlXmM65CmxpgQV9"/>
+    </navPoint>
+  </navMap>
+</ncx>

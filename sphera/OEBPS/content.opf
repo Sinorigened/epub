@@ -1,0 +1,113 @@
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="BookId" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id-1">Sphera Prisma. Brevísima antología personal 2010-2015</dc:title>
+    <dc:creator id="id-2">Emmanuel Vizcaya</dc:creator>
+    <dc:identifier>calibre:22</dc:identifier>
+    <dc:identifier>uuid:08785777-fba2-403d-a5f1-652bc482863e</dc:identifier>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:21a50b1e-72c8-4cb1-be45-3933466fbc3e</dc:identifier>
+    <dc:contributor opf:role="anm" opf:file-as="../Images/Emma_gif2.gif ../Images/Emma_3.gif ../Images/Emma_gifproyecto1.gif">Irasema Fernández</dc:contributor>
+    <dc:contributor opf:role="adp" opf:file-as="../Audio/Fiebre%20Vizcaya.m4a">Luis G. Covarrubias</dc:contributor>
+    <dc:contributor opf:role="dst">Sin Origen</dc:contributor>
+    <dc:contributor opf:role="bkd">Sin Origen</dc:contributor>
+    <dc:contributor opf:role="cov">Emmanuel Vizcaya</dc:contributor>
+    <dc:language>es-MX</dc:language>
+    <dc:date>2017-08-30T05:00:00+00:00</dc:date>
+    <dc:publisher>Sin Origen</dc:publisher>
+    <opf:meta refines="#id-1" property="title-type">main</opf:meta>
+    <opf:meta refines="#id-1" property="file-as">Sphera Prisma. Brevísima antología personal 2010-2015</opf:meta>
+    <meta name="Sigil version" content="0.9.6"/>
+    <meta name="cover" content="portada_vizcaya.png"/>
+    <opf:meta property="role" refines="#id-2" scheme="marc:relators">aut</opf:meta>
+    <opf:meta property="file-as" refines="#id-2">Antología.epub</opf:meta>
+    <opf:meta property="belongs-to-collection" id="id-3">Poesía</opf:meta>
+    <opf:meta refines="#id-3" property="collection-type">series</opf:meta>
+    <opf:meta refines="#id-3" property="group-position">1</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"Emmanuel Vizcaya": ""}</opf:meta>
+  </metadata>
+  <manifest>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Sphera_Prisma.xhtml" href="Text/titulo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Legal.xhtml" href="Text/Legal.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contraportada.xhtml" href="Text/contraportada.xhtml" media-type="application/xhtml+xml"/>
+    <item id="portadilla.xhtml" href="Text/bio.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Instruccionesparaleer.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item id="Omnia.xhtml" href="Text/Omnia.xhtml" media-type="application/xhtml+xml"/>
+    <item id="multilinea.xhtml" href="Text/multilinea.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Pais_aje_.xhtml" href="Text/Paisaje.xhtml" media-type="application/xhtml+xml"/>
+    <item id="leaseconvozrobotica.xhtml" href="Text/leaseconvozrobotica.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Mi_novia_plastica.xhtml" href="Text/Minoviaplastica.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Medusa.xhtml" href="Text/Medussa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Octavio_y_yo.xhtml" href="Text/Octavioyyo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Ladron_de_agendas.xhtml" href="Text/Ladrondeagendas.xhtml" media-type="application/xhtml+xml"/>
+    <item id="metaforma.xhtml" href="Text/metaforma.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Pirusho.xhtml" href="Text/Pirusho.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Las_huellas_de_mi_perro.xhtml" href="Text/Lashuellasdemiperro.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/Pasodehotel.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item id="Vulnerabilidad_en_agua.xhtml" href="Text/Vulnerabilidadenagua.xhtml" media-type="application/xhtml+xml"/>
+    <item id="El_muro_electronico.xhtml" href="Text/Elmuroelectronico.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Instrucciones_para_dar_instrucciones.xhtml" href="Text/Instruccionesparadarinstrucciones.xhtml" media-type="application/xhtml+xml"/>
+    <item id="krater.xhtml" href="Text/krater.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Fiebre.xhtml" href="Text/Fiebre.xhtml" media-type="application/xhtml+xml"/>
+    <item id="The_shooter.xhtml" href="Text/Theshooter.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Replantear_el_mundo.xhtml" href="Text/Replantearemundo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="No_estoy_alla.xhtml" href="Text/Noestoyalla.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Zombie_Zuperstar.xhtml" href="Text/ZombieZuperstar.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Botanica.xhtml" href="Text/Botanica.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Pequena_explosion_atomica.xhtml" href="Text/Pequenaexplosionatomica.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Desplegados.xhtml" href="Text/Desplegados.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Quince_columnas_son_un_templo.xhtml" href="Text/Quincecolumnassonuntemplo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Nervios.xhtml" href="Text/Nervios.xhtml" media-type="application/xhtml+xml"/>
+    <item id="rotttor.xhtml" href="Text/rotttor.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Style_SO.css" id="id1" media-type="text/css"/>
+    <item id="Emma_3.gif" href="Images/Emma_3.gif" media-type="image/gif"/>
+    <item id="Emma_gif2.gif" href="Images/Emma_gif2.gif" media-type="image/gif"/>
+    <item id="Emma_gifproyecto1.gif" href="Images/Emma_gifproyecto1.gif" media-type="image/gif"/>
+    <item id="footprints.gif" href="Images/footprints.gif" media-type="image/gif"/>
+    <item href="Images/logoSinOrigen.png" id="id3" media-type="image/png"/>
+    <item id="portada_vizcaya.png" href="Images/portadavizcaya.png" media-type="image/png"/>
+    <item id="rotttorepub.png" href="Images/rotttor_logo.png" media-type="image/png"/>
+    <item id="Vizcaya.jpg" href="Images/Vizcaya.jpg" media-type="image/jpeg"/>
+    <item href="Audio/FiebreVizcaya.m4a" id="id2" media-type="audio/mpeg"/>
+    <item id="Soy_un_cerebro.mp3" href="Audio/Soyuncerebro.mp3" media-type="audio/mpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="Sphera_Prisma.xhtml"/>
+    <itemref idref="Legal.xhtml"/>
+    <itemref idref="contraportada.xhtml"/>
+    <itemref idref="portadilla.xhtml"/>
+    <itemref idref="id4"/>
+    <itemref idref="Omnia.xhtml"/>
+    <itemref idref="multilinea.xhtml"/>
+    <itemref idref="Pais_aje_.xhtml"/>
+    <itemref idref="leaseconvozrobotica.xhtml"/>
+    <itemref idref="Mi_novia_plastica.xhtml"/>
+    <itemref idref="Medusa.xhtml"/>
+    <itemref idref="Octavio_y_yo.xhtml"/>
+    <itemref idref="Ladron_de_agendas.xhtml"/>
+    <itemref idref="metaforma.xhtml"/>
+    <itemref idref="Pirusho.xhtml"/>
+    <itemref idref="Las_huellas_de_mi_perro.xhtml"/>
+    <itemref idref="id"/>
+    <itemref idref="Vulnerabilidad_en_agua.xhtml"/>
+    <itemref idref="El_muro_electronico.xhtml"/>
+    <itemref idref="Instrucciones_para_dar_instrucciones.xhtml"/>
+    <itemref idref="krater.xhtml"/>
+    <itemref idref="Fiebre.xhtml"/>
+    <itemref idref="The_shooter.xhtml"/>
+    <itemref idref="Replantear_el_mundo.xhtml"/>
+    <itemref idref="No_estoy_alla.xhtml"/>
+    <itemref idref="Zombie_Zuperstar.xhtml"/>
+    <itemref idref="Botanica.xhtml"/>
+    <itemref idref="Pequena_explosion_atomica.xhtml"/>
+    <itemref idref="Desplegados.xhtml"/>
+    <itemref idref="Quince_columnas_son_un_templo.xhtml"/>
+    <itemref idref="Nervios.xhtml"/>
+    <itemref idref="rotttor.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="copyright-page" title="Página de copyright" href="Text/Legal.xhtml"/>
+    <reference type="cover" title="Portada" href="Text/cover.xhtml"/>
+  </guide>
+</package>
