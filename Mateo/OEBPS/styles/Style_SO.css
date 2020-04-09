@@ -1,0 +1,159 @@
+/* Hoja de estilo elaborada e implementada por @pelombelom para @sinorigened. Aquí verás todo el esqueleto para para que puedas disfrutar nuestros libros. Esperamos lo disfrutes. Cualquier comentario, cambio o bug que encuentres, puedes escribirnos a: source@sinorigen.net.
+El trabajo que realizamos en Sin Origen es por un gusto culposo a la rebeldía, a la autocrítica y al DIY. Desde aquí, y a partir de nuestros libros, nos enfocamos a que la información se encuentre accesible, No podemos seguir con una línea paternalista de qué sí y qué no puede ver la gente. La información no daña,y debe ser compartida.
+Como editorial y librería, debemos tener ciertos gastos, pero los dos centros de funcionamiento son el pago de regalías para el autor, y el mantenimiento de nuetra librería. Por eso vendemos epubs y no archivos.         */
+h1, h2, h3, h4, h5, h6 {
+  -epub-hyphens: none;
+}
+div.tit {
+  width: 100%;
+}
+
+p.tt {
+  font-size: 60px;
+  font-family: PecitaBook;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+  -epub-hyphens: auto;
+  -webkit-hyphens: auto;
+  color: #720082;
+  text-align: center;
+}
+marquee.tt {
+  font-size: 60px;
+  font-family: PecitaBook;
+  margin-top: 40%;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+  color: #720082;
+  text-align: center;
+}
+h1 {
+  margin-top: 2.5em;
+  font-size: 40px;
+}
+p {
+  font-family: serif;
+  font-size: 15%;
+  line-height: 15pt;
+  margin: 0;
+  text-align: justify;
+}
+.bod p {
+  font-family: ComiliBook;
+  font-size: 80%;
+  font-weight: bold;
+  line-height: 20pt;
+  margin: 0;
+  text-align: justify;
+  color: #720085;
+}
+
+body {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
+  -epub-hyphens: auto;
+  -webkit-hyphens: auto;
+  font-family: sans-serif;
+  overflow: auto;
+}
+div.legal {
+ margin-top: 100px;
+ margin-left: 50px;
+  
+}
+a {
+  text-decoration: none;
+  color: green;
+}
+/* Aquí veremos cómo funciona la parte multimedia del libro. */
+/* El contenedor con el padding top crea el tamaño del video */
+.contenedor {
+  text-align: center;
+  height: 0;
+  width: 100%;
+  max-width: 560px;
+  padding-top: 56.25%;
+  /* relación: 16/9 = 56.25%  */
+  position: relative;
+  /* para centrado se deja así */
+  top: 2em;
+  bottom: 2em;
+  left: 2em;
+  margin: auto;
+
+
+  /*se adapta al tamaño del contenedor  */
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  
+}
+div.videocaja {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+.image {
+  width: auto;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.imgh {
+  width: 100%;
+  height: auto;
+  display: absolute;
+  margin-left: 10px;
+  margin-right: auto;
+  padding-bottom: 0.5em;
+}
+
+img.imgmap {
+  width: 50%;
+  height: 50%;
+  float: right;
+  text-align: right;
+  padding-left: 1em;
+  
+}
+img.imgl {
+  width: 50%;
+  height: 50%;
+  text-align: right;
+  float: left;
+  padding: 0.5em;
+}
+img.imgreg {
+  width: 40%;
+  height: 40%;
+  float: right;
+  text-align: left;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+img.imgc {
+  width: 100%;
+  height: auto;
+  display: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.log {
+  width: 10%;
+}
+
+video {
+  width: 100%;
+  }
+/*  Gracias a @intratextual por todo el apoyo y conocimiento que ha aportado para lograr que esto sea impecable  */

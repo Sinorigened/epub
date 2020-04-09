@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="id-1">Mateo el Onironauta</dc:title>
+    <dc:creator id="id-2">Manik Lahac</dc:creator>
+    <dc:language>es</dc:language>
+    <dc:publisher>Sin Origen</dc:publisher>
+  </metadata>
+  <manifest> <!-- Aquí encontrarás todo el contenido del libro, no importa que no se encuentre en el orden específico, pero, debe tener id href y media type. Sin esas espeificaciones no furulará el libro -->
+<!-- Esto es portada y para que run run run -->
+  <item id="ncx" href="toc.ncx" media-type="application/x-
+dtbncx+xml"/>
+  <item id="cover.xhtml" href="text/cover.xhtml" media-type="application/xhtml+xml"/>
+
+<!-- text -->
+
+  <item id="Style_SO.css" href="styles/Style_SO.css" media-type="text/css"/>
+  <item id="head.xhtml" href="text/head.xhtml" media-type="application/xhtml+xml"/>
+  <item id="legal.xhtml" href="text/legal.xhtml" media-type="application/xhtml+xml"/>
+  <item id="mateo.xhtml" href="text/mateo.xhtml" media-type="application/xhtml+xml"/>
+
+<!-- images -->
+
+  <item id="calle.jpg" href="images/calle.jpg" media-type="image/jpeg"/>
+  <item id="cover.jpg" href="images/cover.jpg" media-type="image/jpeg"/>
+  <item id="espejo.jpg" href="images/espejo.jpg" media-type="image/jpeg"/>
+  <item id="grekas.jpg" href="images/grekas.jpg" media-type="image/jpeg"/>
+  <item id="leer.jpg" href="images/leer.jpg" media-type="image/jpeg"/>
+  <item id="logoSinOrigen.png" href="images/logoSinOrigen.png" media-type="image/png"/>
+  <item id="run.jpg" href="images/run.jpg" media-type="image/jpeg"/>
+
+
+<!-- audio -->
+
+  <item id="quieneres.mp3" href="audio/quieneres.mp3" media-type="audio/mpeg"/>
+
+<!-- video -->
+
+  <item id="flash.mp4" href="video/flash.mp4" media-type="video/mp4"/>
+  <item id="run.mp4" href="video/run.mp4" media-type="video/mp4"/>
+
+  </manifest>
+
+<!-- Esto es el índice, si aquí no aparece (en el orden que quieres que aparezca) no importa que lo hayas listado arriba porque no se verá en tu contenido final  -->
+<spine toc="ncx">
+  <itemref idref="cover.xhtml"/>
+  <itemref idref="legal.xhtml"/>
+  <itemref idref="head.xhtml"/>
+  <itemref idref="mateo.xhtml"/>
+ </spine>
+<!-- mi portada, si no les gusta, pues ya aben qué hacer -->
+<guide>
+  <reference type="cover" title="portada" href="text/cover.xhtml"/>
+ </guide>
+</package>
