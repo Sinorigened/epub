@@ -1,4 +1,4 @@
-/* Hoja de estilo elaborada e implementada por @pelombelom para @sinorigened. Aquí verás todo el esqueleto para para que puedas disfrutar nuestros libros.Esperamos lo disfrutes. Cualquier comentario, cambio o bug que encuentres, puedes escribirnos a: sinorigened@gmail.com.
+/* Hoja de estilo elaborada e implementada por @pelombelom para @sinorigened. Aquí verás todo el esqueleto para para que puedas disfrutar nuestros libros. Esperamos lo disfrutes. Cualquier comentario, cambio o bug que encuentres, puedes escribirnos a: sinorigened@gmail.com.
 El trabajo que realizamos en Sin Origen es por un gusto culposo a la rebeldía, a la autocrítica y al DIY. Desde aquí, y a partir de nuestros libros, nos enfocamos a que la información se encuentre accesible, No podemos seguir con una línea paternalista de qué sí y qué no puede ver la gente. La información no daña,y debe ser compartida.
 Como editorial y librería, debemos tener ciertos gastos, pero los dos centros de funcionamiento son el pago de regalías para el autor, y el mantenimiento de nuetra librería. Por eso vendemos epubs y no archivos.         */
 h1, h2, h3, h4, h5, h6 {
@@ -23,23 +23,27 @@ h1 {
   margin-top: 2.5em;
   font-size: 40px;
 }
-
+p.sh {
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+    box-shadow: 5px 5px 15px 5px #000000;
+}
 p {
-  font-family: serif;
-  font-size: 15px;
-  line-height: 15pt;
-  margin: 0;
-  text-align: justify;
+    font-family: serif;
+    font-size: 15px;
+    line-height: 15pt;
+    margin: 0;
+    text-align: justify;
 }
 body {
-  margin-top: 40px;
-  margin-bottom: 20px;
-  margin-left: 15px;
-  margin-right: 15px;
-  -epub-hyphens: auto;
-  -webkit-hyphens: auto;
-  font-family: sans-serif;
-  overflow: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    -epub-hyphens: auto;
+    -webkit-hyphens: auto;
+    font-family: sans-serif;
+    overflow: auto;
+   
 }
 a {
   text-decoration: none;
@@ -114,6 +118,13 @@ div.videocaja{
   text-transform: uppercase;
   font-size: 0.8em;
 }
+.container {
+  position: relative;
+}
+.container dt {
+  position: sticky;
+}
+
 /* ---- grid ---- */
 div.grid {
   width: 90%;
@@ -144,4 +155,3 @@ div.image {
   margin-left: auto;
   margin-right: auto;
 }
-/*  Gracias a @intratextual por todo el apoyo y conocimiento que ha aportado para lograr que esto sea impecable  */
